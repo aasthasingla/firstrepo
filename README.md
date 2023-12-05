@@ -1,4 +1,4 @@
 # firstrepo
 This is my first repository.
 <br>
-Author: Aastha Singla
+Author: Aastha Singla(student)
